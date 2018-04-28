@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Exercise5</string>
+
+  <string name="action_search">Search</string>
+  <string name="error_with_code">Error with code: %d</string>
+  <string name="something_went_wrong">Something went wrong</string>
+  <string name="searching">Searching…</string>
+</resources>
